@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://jaronoff.github.io/jaronoff/sitemap.xml 
